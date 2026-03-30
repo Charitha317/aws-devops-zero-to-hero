@@ -1,5 +1,4 @@
 from flask import Flask
-# adding comment
 app = Flask(__name__)
 
 @app.route('/')
