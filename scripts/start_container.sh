@@ -1,6 +1,6 @@
 #!/bin/bash
 set -e
-
+#ad commit
 # Pull the Docker image from Docker Hub
 docker pull awscharitha/simple-python-app
 
